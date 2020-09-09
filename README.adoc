@@ -1,0 +1,10 @@
+= The Good Docs Project × Glossarist
+
+*To start a new concept vocabulary,
+please use https://github.com/glossarist/tgd-glossary-template[Glossarist database template for The Good Docs project].*
+
+As a TGD collaborator, you are welcome
+to use this repository’s https://github.com/glossarist/the-good-docs-project-support/issues[Issues]
+for problems related to Glossarist.
+
+For other information, see https://www.glossarist.org/docs/adopt/2-infrastructure/[Glossarist docs]!
